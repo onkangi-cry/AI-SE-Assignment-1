@@ -37,6 +37,10 @@ Technologies
 Disclaimer  
 *Crypto investments are risky—always do your own research before investing.*
 
+Here is how my bot works
+![image](https://github.com/user-attachments/assets/2a754def-7b06-4c97-a8bd-a33b793b5826)
+
+
 
 
 50‑Word Summary
